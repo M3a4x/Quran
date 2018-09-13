@@ -1,6 +1,6 @@
-token=NDg4NDAwMzk0ODQyODAwMTI5.DnbrKw.V3__flLlkHqtnHohYHEQzFKM5wA
-owner=331081268731052042 
-prefix=!
-game=Baktash-bot
+token=NDc2MzA5MzA5NjQzMjkyNjcy.DnwirQ.QWlJkMcNGHDoMd4BHkDwBM8jtEY
+owner=194559857536270336 
+prefix=Quran
+game=الــقـران الـكــريــم
 stayinchannel=true
 songinstatus=true
